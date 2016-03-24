@@ -61,24 +61,41 @@ A sprint (or iteration) is the basic unit of development in scrum. The sprint is
 Each sprint starts with a sprint planning event that aims to define a sprint backlog, identify the work for the sprint, and make an estimated commitment for the sprint goal. Each sprint ends with a sprint review and sprint retrospective, that reviews progress to show to stakeholders and identify lessons and improvements for the next sprints.
 Scrum emphasizes working product at the end of the sprint that is really done. In the case of software, this likely includes that the software has been integrated, fully tested, end-user documented, and is potentially shippable.
 
-##### Planning
+##### Sprint Planning
 During the sprint planning meeting, the product owner describes the highest priority features to the team. The team asks enough questions that they can turn a high-level user story of the product backlog into the more detailed tasks of the sprint backlog.
 
 The product owner doesn't have to describe every item being tracked on the product backlog. A good guideline is for the product owner to come to the sprint planning meeting prepared to talk about two sprint's worth of product backlog items. To make an example really simple, suppose a team always finishes five product backlog items. Their product owner should enter the meeting prepared to talk about the top 10 priorities.
 
+###### Whats the outcome of the Sprint Planning?
 There are two defined artifacts that result from a sprint planning meeting:
 
-###### The sprint goal
-The sprint goal can be used for quick reporting to those outside the sprint. There are always stakeholders who want to know what the team is working on, but who do not need to hear about each product backlog item (user story) in detail.
+***The sprint goal:*** The sprint goal can be used for quick reporting to those outside the sprint. There are always stakeholders who want to know what the team is working on, but who do not need to hear about each product backlog item (user story) in detail.
 
-###### The sprint backlog
-The sprint backlog is the other output of sprint planning. A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated.
+***The sprint backlog:*** The sprint backlog is the other output of sprint planning. A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated.
+
+###### Who attends to the Sprint Planning?
+- Product owner
+- Scrum master
+- Development team
 
 ##### Daily scrum
 The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours. This is done by inspecting the work since the last Daily Scrum and forecasting the work that could be done before the next one. The Daily Scrum is held at the same time and place each day to reduce complexity. During the meeting, the Development Team members explain:
 - What did I do yesterday that helped the Development Team meet the Sprint Goal?
 - What will I do today to help the Development Team meet the Sprint Goal?
 - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+- 
+###### Who attends to the Sprint Planning?
+- Scrum master
+- Development team
+
+##### Sprint review
+A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value. This is an informal meeting, not a status meeting, and the presentation of the product increment is intended to elicit feedback and foster collaboration.
+
+##### Sprint Retrospective
+The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning.
+
+This is a three-hour time-boxed meeting for one-month sprints. For shorter sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches all to keep it within the time-box. The Scrum Master participates as a peer team member in the meeting from the accountability over the
+Scrum process.
 
 ##### Sources
 - [Rational unified process](https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational)
