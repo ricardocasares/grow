@@ -84,7 +84,9 @@ The Daily Scrum is a 15-minute time-boxed event for the Development Team to sync
 - What will I do today to help the Development Team meet the Sprint Goal?
 - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
 
-###### Who attends to the Sprint Planning?
+###### What's the outcome of the Daily Scrum?
+
+###### Who attends to the  Daily Scrum?
 - Scrum master
 - Development team
 
