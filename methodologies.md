@@ -1,4 +1,5 @@
 # Methodologies
+This document aims to provide a lightweight reference about software development methodologies and processes, making emphasis on agile software development.
 
 ## Traditional
 
