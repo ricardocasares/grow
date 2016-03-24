@@ -69,9 +69,10 @@ The product owner doesn't have to describe every item being tracked on the produ
 ###### Whats the outcome of the Sprint Planning?
 There are two defined artifacts that result from a sprint planning meeting:
 
-***The sprint goal:*** The sprint goal can be used for quick reporting to those outside the sprint. There are always stakeholders who want to know what the team is working on, but who do not need to hear about each product backlog item (user story) in detail.
-
-***The sprint backlog:*** The sprint backlog is the other output of sprint planning. A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated.
+- The sprint goal
+  - The sprint goal can be used for quick reporting to those outside the sprint. There are always stakeholders who want to know what the team is working on, but who do not need to hear about each product backlog item (user story) in detail.
+- The sprint backlog
+  - The sprint backlog is the other output of sprint planning. A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated.
 
 ###### Who attends to the Sprint Planning?
 - Product owner
@@ -85,13 +86,23 @@ The Daily Scrum is a 15-minute time-boxed event for the Development Team to sync
 - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
 
 ###### What's the outcome of the Daily Scrum?
+- An updated scrum board to improve visibility of the progress.
+- A list of blockers or impediments that need to be dealed with by the Scrum Master.
 
-###### Who attends to the  Daily Scrum?
+###### Who attends to the Daily Scrum?
 - Scrum master
 - Development team
 
 ##### Sprint review
 A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value. This is an informal meeting, not a status meeting, and the presentation of the product increment is intended to elicit feedback and foster collaboration.
+
+###### What's the outcome of the Sprint Review?
+- A progress status report
+- An update from the product vision and feedback given by the Product Owner and stakeholders
+
+###### Who attends to the Sprint Review?
+- All the Scrum Team including the Product Owner
+- Stakeholders may attend as well
 
 ##### Sprint Retrospective
 The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning.
