@@ -124,6 +124,8 @@ Scrum’s roles, artifacts, events, and rules are immutable and although impleme
 
 Scrum does a strong emphasis on cross-functional teams, time-boxed and to-the-point meetings. Team motivation, trust and transparency are key aspects of it.
 
+---
+
 ##### Sources
 - [Rational unified process](https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational)
 - [Scrum reference cards](http://scrumreferencecard.com/scrum-reference-card/)
