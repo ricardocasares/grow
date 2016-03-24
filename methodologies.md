@@ -119,6 +119,11 @@ Scrum process.
 - The Scrum Master
 - The Development Team
 
+#### Summary
+Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
+
+Scrum does a strong emphasis on cross-functional teams, time-boxed and to-the-point meetings. Team motivation, trust and transparency are key aspects of it.
+
 ##### Sources
 - [Rational unified process](https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational)
 - [Scrum reference cards](http://scrumreferencecard.com/scrum-reference-card/)
