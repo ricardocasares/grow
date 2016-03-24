@@ -123,3 +123,4 @@ Scrum process.
 - [Scrum reference cards](http://scrumreferencecard.com/scrum-reference-card/)
 - [The Scrum guide](http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf)
 - [Scrum (Software development)](https://en.wikipedia.org/wiki/Scrum_(software_development))
+- [Scrum Practitioners Open Questions](https://www.scrum.org/Forums/aft/1292/afpg/2)
