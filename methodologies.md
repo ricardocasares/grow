@@ -110,6 +110,14 @@ The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself 
 This is a three-hour time-boxed meeting for one-month sprints. For shorter sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches all to keep it within the time-box. The Scrum Master participates as a peer team member in the meeting from the accountability over the
 Scrum process.
 
+###### What's the outcome of the Sprint Retrospective?
+- A detailed plan to continuosly improve the work process
+- A status report of completed action items in the continous improvement plan since last Restrospective
+
+###### Who attends to the Sprint Review?
+- The Scrum Master
+- The Development Team
+
 ##### Sources
 - [Rational unified process](https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational)
 - [Scrum reference cards](http://scrumreferencecard.com/scrum-reference-card/)
