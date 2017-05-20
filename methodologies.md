@@ -127,7 +127,7 @@ Scrum teams organize development into time-boxed sprints. At the outset of the s
 
 A team that consistently meets its forecast is a compelling advertisement for agile in their organization. But don't let that tempt you to fudge the numbers by declairing an item complete before it really is. It may look good in the short term, but in the long run only hampers learning and improvement.
 
-![Burndown chart][burndown]
+![Burndown chart](https://raw.githubusercontent.com/ricardocasares/grow/methodologies/assets/methodologies/burndown_chart.png "Burndown chart")
 
 ###### Anti-patterns to watch for
 
@@ -135,8 +135,6 @@ A team that consistently meets its forecast is a compelling advertisement for ag
 - The team misses their forecast sprint after sprint becase they're committing to too much work. 
 - The burndown line makes steep drops rather than a more gradual burndown because the work hasn't been broken down into granular pieces.
 - The product owner adds or changes the scope mid-sprint.
-
-[burndown]: https://raw.githubusercontent.com/ricardocasares/grow/methodologies/assets/methodologies/burndown_chart.ong "Burndown chart"
 
 #### Summary
 Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
