@@ -119,6 +119,25 @@ Scrum process.
 - The Scrum Master
 - The Development Team
 
+#### Metrics
+
+##### Sprint burndown
+
+Scrum teams organize development into time-boxed sprints. At the outset of the sprint, the team forecasts how much work they can complete during a sprint. A sprint burndown report then tracks the completion of work throughout the sprint. The x-axis represents time, and the y-axis refers to the amount of work left to complete, measured in either story points or hours. The goal is to have all the forecasted work completed by the end of the sprint.
+
+A team that consistently meets its forecast is a compelling advertisement for agile in their organization. But don't let that tempt you to fudge the numbers by declairing an item complete before it really is. It may look good in the short term, but in the long run only hampers learning and improvement.
+
+![Burndown chart][burndown]
+
+###### Anti-patterns to watch for
+
+- The team finishes early sprint after sprint because they aren't committing to enough work. 
+- The team misses their forecast sprint after sprint becase they're committing to too much work. 
+- The burndown line makes steep drops rather than a more gradual burndown because the work hasn't been broken down into granular pieces.
+- The product owner adds or changes the scope mid-sprint.
+
+[burndown]: https://github.com/ricardocasares/grow/raw/methodologies/assets/methodologies/burndown_chart.svg "Burndown chart"
+
 #### Summary
 Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
 
