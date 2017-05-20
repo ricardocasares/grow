@@ -136,7 +136,7 @@ A team that consistently meets its forecast is a compelling advertisement for ag
 - The burndown line makes steep drops rather than a more gradual burndown because the work hasn't been broken down into granular pieces.
 - The product owner adds or changes the scope mid-sprint.
 
-[burndown]: https://github.com/ricardocasares/grow/raw/methodologies/assets/methodologies/burndown_chart.svg "Burndown chart"
+[burndown]: https://raw.githubusercontent.com/ricardocasares/grow/methodologies/assets/methodologies/burndown_chart.svg "Burndown chart"
 
 #### Summary
 Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
