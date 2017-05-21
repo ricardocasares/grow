@@ -144,6 +144,14 @@ Let's say the product owner wants to complete 500 story points in the backlog. W
 
 It's important to monitor how velocity evolves over time. New teams can expect to see an increase in velocity as the team optimizes relationships and the work process. Existing teams can track their velocity to ensure consistent performance over time, and can confirm that a particular process change made improvements or not. A decrease in average velocity is usually a sign that some part of the team's development process has become inefficient and should be brought up at the next retrospective.
 
+###### Anti-patterns to watch for
+
+When velocity is erratic over a long period of time, always revisit the team's estimation practices. During the team's retrospective, ask the following questions:
+
+- Are there unforeseen development challenges we didn't account for when estimating this work? How can we better break down work to uncover some of these challenges?
+- Is there outside business pressure pushing the team beyond its limits? Is adherance to development best practices suffering as a result?
+- As a team, are we overzealous in forecasting for the sprint? 
+
 ![Velocity report](https://raw.githubusercontent.com/ricardocasares/grow/methodologies/assets/methodologies/velocity_report.png "Velocity report")
 
 #### Summary
