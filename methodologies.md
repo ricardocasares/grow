@@ -136,6 +136,16 @@ A team that consistently meets its forecast is a compelling advertisement for ag
 - The burndown line makes steep drops rather than a more gradual burndown because the work hasn't been broken down into granular pieces.
 - The product owner adds or changes the scope mid-sprint.
 
+##### Velocity
+
+Velocity is the average amount of work a scrum team completes during a sprint, measured in either story points or hours, and is very useful for forecasting. The product owner can use velocity to predict how quickly a team can work through the backlog, because the report tracks the forecasted and completed work over several iterations–the more iterations, the more accurate the forecast.
+
+Let's say the product owner wants to complete 500 story points in the backlog. We know that the development team generally completes 50 story points per iteration. The product owner can reasonably assume the team will need 10 iterations (give or take) to complete the required work.
+
+It's important to monitor how velocity evolves over time. New teams can expect to see an increase in velocity as the team optimizes relationships and the work process. Existing teams can track their velocity to ensure consistent performance over time, and can confirm that a particular process change made improvements or not. A decrease in average velocity is usually a sign that some part of the team's development process has become inefficient and should be brought up at the next retrospective.
+
+![Velocity report](https://raw.githubusercontent.com/ricardocasares/grow/methodologies/assets/methodologies/velocity_report.png "Velocity report")
+
 #### Summary
 Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
 
