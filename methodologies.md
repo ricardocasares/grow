@@ -160,6 +160,46 @@ Scrum’s roles, artifacts, events, and rules are immutable and although impleme
 
 Scrum does a strong emphasis on cross-functional teams, time-boxed and to-the-point meetings. Team motivation, trust and transparency are key aspects of it.
 
+
+### Kanban
+
+Unlike other methods that force fit change from the get-go, Kanban is about evolution, not revolution. It hinges on the fundamental truth that you can’t get where you want to go without first knowing where you are.
+Kanban is similar to Scrum, in that it helps teams release software early and often. However, Kanban gives more flexibility in terms of planning and execution. Instead of working in time-based sprints, work is continuously delivered in Kanban, and your team pulls single pieces of work from the backlog, and then moves them to done.
+
+#### Concepts
+
+##### Visualize the workflow
+In short, you should be able to, at any time, look at your overall workflow, be able to determine quickly what you should work on next, have visual cues for priority and time to complete, and that system should be easy to add, remove, and re-organize. The main form of visualization is the Kanban board.
+
+##### Limit the work-in-progress
+In Kanban systems the work-in-progress (WIP) at each state in the workflow is limited and new work is "pulled" into when there is available capacity within the local WIP limit.
+
+##### Manage the flow
+The flow of work items through each state in the workflow should be monitored and reported - often referred to as Measuring Flow. By flow we mean movement. We are interested in the speed of movement and the smoothness of that movement. Ideally we want fast smooth flow. Fast smooth flow means our system is both creating value quickly, which is minimizing risk and avoiding (opportunity) cost of delay, and is also doing so in a predictable fashion.
+
+##### Make the work explicit
+Until the mechanism of software development or IT operations process is made explicit it is often hard or impossible to hold a discussion about improving it. Without an explicit understanding of how things work and how work is actually done, any discussion of problems tends to be emotional, anecdotal and subjective. With an explicit understanding it is possible to move to a more rational, empirical, objective discussion of issues. This is more likely to facilitate consensus around improvement suggestions.
+
+##### Implement feedback loops
+An evolutionary process cannot work without feedback loops. The purpose of feedback loops is to be able to compare expected outcomes with actual outcomes and make adjustments. Specifically, we want to make process and policy adjustments as a result of the feedback and understanding the current outcomes in comparison with our expectations or desires.
+
+##### Improve and evolve
+It is the WIP limit that ultimately stimulates conversations about process problems. Things which impede flow, or introduce perturbations that mean flow is inconsistent or ragged, often result in a challenge to the WIP limit. The team has the option to break the limit, ignore the problem and carry on, or to face up to the issue, discuss it and suggest a change.
+
+When teams have a shared understanding of theories about work, workflow, process, and risk, they are more likely to be able to build a shared comprehension of a problem and suggest improvement actions which can be agreed by consensus
+
+
+#### Metrics
+
+##### Lead time
+Lead time is the time taken from when an issue is logged until work is completed on that issue.
+
+##### Cycle time
+Cycle time is the time spent working on an issue — typically, the time taken from when work begins on an issue to when work is completed, but also includes any other time spent working on the issue. For example, if an issue is reopened, worked on, and completed again, then the time for this extra work is added to the cycle time.
+
+##### Throughput
+In Kanban throughput is mainly used for tracking team's performance. Logically, the objective is to continuously improve it. Throughput is the number of work items that the team is capable to deliver in a given time period, e.g. week, month, provided that they keep a bearable work load.
+
 ---
 
 ##### Sources
