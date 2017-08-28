@@ -1,2 +1,2 @@
 # grow
-Self development project
+Self development plan
