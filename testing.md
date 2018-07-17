@@ -27,5 +27,16 @@ UI tests provide end-to-end coverage and make sure that system is stable and sat
 
 ![Testing pyramid](https://github.com/ricardocasares/grow/blob/master/assets/automation-pyramid-1.png?raw=true "Testing pyramid")
 
+- Unit tests are inexpensive to write and maintain.
+- They’re an efficient means of providing early feedback so bugs can be found before other changes are made.
+- Developing concurrently with unit tests makes developers think about the problem they are solving and any edge cases they might encounter.
+- The tests are granular and can help pinpoint exactly which line of a code has a defect.
+- They are fast and don’t rely on any UI or external systems such as a database or an API.
+
 #### Ice cone anti-pattern
 ![Ice cone anti-pattern](https://github.com/ricardocasares/grow/blob/master/assets/automation-pyramid-ice-cream.png?raw=true "Ice cone anti-pattern")
+
+- Difficult to debug failed tests due to numerous external conditions: network down, API down, etc.
+- Fragile tests are known to be an issue in UI tests. They are the result of testing lots of things at once and race conditions.
+- The run times take much longer than other types of tests because it relies on interacting with rendered UI elements and does not necessarily have hooks into the source code.
+
