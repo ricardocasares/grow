@@ -21,7 +21,7 @@ UI tests provide end-to-end coverage and make sure that system is stable and sat
 - Stable builds are guaranteed before it gets into a tester’s hands.
 - Compatibility: the same test can be run on different devices to ensure that your app works on any OS/Device combination.
 
-### Patterns
+## Patterns
 
 #### Testing pyramid
 
