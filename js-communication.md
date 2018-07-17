@@ -10,6 +10,8 @@ WebSocket protocol is defined by [RFC-6455](https://tools.ietf.org/html/rfc6455)
 
 ![WS Frame](https://github.com/ricardocasares/grow/blob/ricardocasares-js-communication/assets/ws-frame.png?raw=true "WS Frame")
 
+A good explanation can be found on this talk [Inside WebSockets](https://www.youtube.com/watch?v=9FqjRN4VYUU)
+
 ##### FIN:  1 bit
 
 Indicates that this is the final fragment in a message.  The first
