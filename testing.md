@@ -25,7 +25,7 @@ UI tests provide end-to-end coverage and make sure that system is stable and sat
 
 #### Testing pyramid
 
-![Testing pyramid](https://raw.githubusercontent.com/ricardocasares/grow/assets/automation-pyramid-1.png "Testing pyramid")
+![Testing pyramid](https://github.com/ricardocasares/grow/blob/master/assets/automation-pyramid-1.png?raw=true "Testing pyramid")
 
 #### Ice cone anti-pattern
-![Ice cone anti-pattern](https://raw.githubusercontent.com/ricardocasares/grow/assets/automation-pyramid-ice-cream.png "Ice cone anti-pattern")
+![Ice cone anti-pattern](https://github.com/ricardocasares/grow/blob/master/assets/automation-pyramid-ice-cream.png?raw=true "Ice cone anti-pattern")
